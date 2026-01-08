@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+*.venv
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# yt-dlp downloads
+downloads/
+
+# Environment variables
+.env
+cookie.txt
